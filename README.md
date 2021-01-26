@@ -21,11 +21,11 @@ The report has been created based on data gathered from January to May 2019.
 
 In the initial analysis, once we merged the data from each CSV file and created a new PyBer dataframe, we were able to categorize all information by each city type; **Rural**, **Suburban**, **Urban**.  The data we extracted were:
 
-  1.  Total rides by city type<br>
-  2.  Total drivers by city type<br>
-  3.  Total fares by city type<br>
-  4.  Average fares per driver<br>
-  5.  Average fares per ride<br>
+  **1.**  Total rides by city type<br>
+  **2.**  Total drivers by city type<br>
+  **3.**  Total fares by city type<br>
+  **4.**  Average fares per driver<br>
+  **5.**  Average fares per ride<br>
 
 *_PyBer summary created with the results:_*
 
