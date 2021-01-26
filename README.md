@@ -53,6 +53,7 @@ Looking at the chart, we can see there is no specific pattern except towards the
 ## Summary
 
 My recommendations would be:<br>
+
     a)  To check if the fare rates in the suburban and rural areas are at par with the company or the urban cities' rates.  
     b)  Calculating the average distance for each type of city and compare to understand if distance plays a role in the fare per ride for rural areas.  
     c)  This will also help isolating discrepencies if any for fare per driver.  Lastly check if there is a need to increase the number of drivers in the rural area.  
