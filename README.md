@@ -29,7 +29,7 @@ In the initial analysis, once we merged the data from each CSV file and created 
 
 *_PyBer summary created with the results:_*
 
-![PyBer_summary](https://github.com/taranahassan/PyBer_Analysis/blob/main/Image_examples/PyBer_summary.png?raw=true<br>
+![PyBer_summary](https://github.com/taranahassan/PyBer_Analysis/blob/main/Image_examples/PyBer_summary.png?raw=true)<br>
 
 
 Based on the above PyBer summary, we can identify that:
@@ -40,11 +40,16 @@ Based on the above PyBer summary, we can identify that:
   
   
 In the second part of the analysis, we segregated and filtered the data further to isolate fares for the first quadrimester; January to end of April 2019.  We tabulated the totals to get a total sum of fares per week in the month.  Below is a sample of the code:<br>
+
 ![Weekly_fare_code_sample](https://github.com/taranahassan/PyBer_Analysis/blob/main/Image_examples/Weekly_fare_code_sample.png?raw=true)<br>
 
 A multiple line chart was created with the results from the second analysis.<br>
+
 ![PyBer_fare_summary](https://github.com/taranahassan/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)<br>
 
 Looking at the chart, we can see there is no speciifc pattern except towards the end of February where all 3 city types have a spike upwards.  This could be due to number of rides occuring.<br>
 
 
+## Summary
+
+My recommendations would be to check if the fare rates in the suburban and rural areas are at par with the company or the urban cities' rates.  Also alculating the average distance for each type of city and compare to understand if distance plays a role in the fare per ride for rural areas.  This will also help isolating discrepencies if any for fare per driver.  Lastly check if there is a need to increase the number of drivers in the rural area.  
