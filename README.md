@@ -13,7 +13,7 @@ The report has been created based on data gathered from January to May 2019.
 
 [city_data.csv](https://github.com/taranahassan/PyBer_Analysis/blob/main/Resources/city_data.csv)  <br>
 [ride_data.csv](https://github.com/taranahassan/PyBer_Analysis/blob/main/Resources/ride_data.csv)  <br>
-##### Source code:  [PyBer_Challenge](https://github.com/taranahassan/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)  <br>
+##### Source code:  [PyBer_Challenge](https://github.com/taranahassan/PyBer_Analysis/blob/main/notebook/PyBer_Challenge.ipynb)  <br>
 ##### Software used: Python 3.7.9 64-bit (conda); jupyter-notebook : 6.1.4  <br>
 
 
